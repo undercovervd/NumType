@@ -1,5 +1,6 @@
 # NumType
 Full on keyboard in a 3x3 numpad grid,
+https://undercovervd.github.io/NumType/
 
 # Usage
 Its all but perfect, but this is how it works:
